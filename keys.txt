@@ -1,0 +1,6 @@
+supabase 
+url:https://bhxooyfcdiavsjqtcbny.supabase.co
+api: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJoeG9veWZjZGlhdnNqcXRjYm55Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDU3NjYxNjksImV4cCI6MjA2MTM0MjE2OX0.qvOWTVfW7JcxG8wbS5_XW9M2-9ARa-skI02Ih67mUn4
+
+groq
+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

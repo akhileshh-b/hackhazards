@@ -26,7 +26,7 @@ StoryBuilder is an AI-powered story generation platform that helps writers, educ
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/storybuilder.git
+git clone https://github.com/akhileshh-b/storybuilder.git
 cd storybuilder
 ```
 
